@@ -1,3 +1,7 @@
 food-11-image-classification/archive (1).zip
 food-11-image-classification/food11/
 personal_venv
+Models
+DS.Store
+__pycache__/
+*.pyc
